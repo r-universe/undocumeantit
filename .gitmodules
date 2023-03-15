@@ -3,9 +3,19 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "klausuR"]
+	path = klausuR
+	url = https://github.com/undocumeantit/klausur
+	shallow = true
+	registered = true
 [submodule "koRpus"]
 	path = koRpus
 	url = https://github.com/undocumeantit/korpus
+	shallow = true
+	registered = true
+[submodule "koRpus.lang.en"]
+	path = koRpus.lang.en
+	url = https://github.com/undocumeantit/korpus.lang.en
 	shallow = true
 	registered = true
 [submodule "sylly"]
@@ -16,16 +26,6 @@
 [submodule "sylly.en"]
 	path = sylly.en
 	url = https://github.com/undocumeantit/sylly.en
-	shallow = true
-	registered = true
-[submodule "koRpus.lang.en"]
-	path = koRpus.lang.en
-	url = https://github.com/undocumeantit/korpus.lang.en
-	shallow = true
-	registered = true
-[submodule "klausuR"]
-	path = klausuR
-	url = https://github.com/undocumeantit/klausur
 	shallow = true
 	registered = true
 [submodule "tm.plugin.koRpus"]
