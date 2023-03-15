@@ -1,14 +1,6 @@
 [
   {
-    "package": "klausuR",
-    "oncran": true
-  },
-  {
     "package": "koRpus",
-    "oncran": true
-  },
-  {
-    "package": "koRpus.lang.en",
     "oncran": true
   },
   {
@@ -17,6 +9,14 @@
   },
   {
     "package": "sylly.en",
+    "oncran": true
+  },
+  {
+    "package": "koRpus.lang.en",
+    "oncran": true
+  },
+  {
+    "package": "klausuR",
     "oncran": true
   },
   {
